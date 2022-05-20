@@ -1,0 +1,17 @@
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\EstateManagementApplication.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\exception\GlobalExceptionHandler.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\service\BuildingService.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\util\MessageConstant.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\dao\BuildingMapper.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\pojo\Community.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\pojo\Building.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\service\CommunityService.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\util\PageResult.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\service\impl\CommunityServiceImpl.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\controller\CommunityController.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\controller\FileController.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\util\Result.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\dao\CommunityMapper.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\controller\BuildingController.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\util\StatusCode.java
+D:\Desktop\myestate-manager\src\main\java\com\guo\myestatemanager\service\impl\BuildingServiceImpl.java

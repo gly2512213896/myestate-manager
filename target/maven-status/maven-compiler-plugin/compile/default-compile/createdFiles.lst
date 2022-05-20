@@ -1,0 +1,17 @@
+com\guo\myestatemanager\controller\BuildingController.class
+com\guo\myestatemanager\util\StatusCode.class
+com\guo\myestatemanager\dao\CommunityMapper.class
+com\guo\myestatemanager\service\impl\CommunityServiceImpl.class
+com\guo\myestatemanager\pojo\Community.class
+com\guo\myestatemanager\util\Result.class
+com\guo\myestatemanager\dao\BuildingMapper.class
+com\guo\myestatemanager\service\BuildingService.class
+com\guo\myestatemanager\EstateManagementApplication.class
+com\guo\myestatemanager\util\MessageConstant.class
+com\guo\myestatemanager\util\PageResult.class
+com\guo\myestatemanager\exception\GlobalExceptionHandler.class
+com\guo\myestatemanager\controller\CommunityController.class
+com\guo\myestatemanager\controller\FileController.class
+com\guo\myestatemanager\pojo\Building.class
+com\guo\myestatemanager\service\impl\BuildingServiceImpl.class
+com\guo\myestatemanager\service\CommunityService.class
